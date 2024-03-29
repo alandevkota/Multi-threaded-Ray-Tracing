@@ -2,6 +2,13 @@
 //////// I have taken the libraries and defined using many github programs I came across
 //////// I modified and created most of the codes within
 
+// This program is to generate a ray tracing image of spheres with different colors and sizes
+// The program is written in C++ and uses the libraries and functions from the github libraries
+// The program is written in Visual Studio 2019 and compiled in the same environment
+// The program is written by Alan Devkota
+// The program is written on 10/10/2021
+// The program is written for the purpose of learning and understanding the ray tracing image generation
+
 
 ///**********************************************************************************************************
 
